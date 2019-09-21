@@ -1,2 +1,2 @@
-include ':app', ':CommonService', ':CommonRes', ':CommonSDK'
+include ':app'
 rootProject.name='YJoy'
